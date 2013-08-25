@@ -1,4 +1,4 @@
-About Semantic MediaWiki
+About Semantic MediaWiki, Sucka
 ========================
 
 Semantic MediaWiki is a project for extending MediaWiki with "semantic"
